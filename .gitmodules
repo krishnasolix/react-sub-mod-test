@@ -1,0 +1,6 @@
+[submodule "host"]
+	path = host
+	url = https://github.com/krishnasolix/host.git
+[submodule "remote"]
+	path = remote
+	url = https://github.com/krishnasolix/remote.git
