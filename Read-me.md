@@ -12,3 +12,6 @@ Run `yarn start`. This will build and serve both `host` and `remote` on ports 30
 
 - [localhost:3000](http://localhost:3000/) (HOST)
 - [localhost:3001](http://localhost:3001) (STANDALONE REMOTE)
+
+
+git config command git config submodule.recurse true
